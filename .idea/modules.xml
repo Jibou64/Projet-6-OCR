@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Projet 6.iml" filepath="$PROJECT_DIR$/.idea/Projet 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Developpez-une-application-full-stack-complete/back/mdd-api.iml" filepath="$PROJECT_DIR$/Developpez-une-application-full-stack-complete/back/mdd-api.iml" />
     </modules>
   </component>
 </project>
